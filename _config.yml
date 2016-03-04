@@ -1,0 +1,28 @@
+name: Mindful Champions
+favicon: null
+layout_spectrum: 0.8646852499805391
+typography_spectrum: 0.4000415022019297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1660332924220711
+  lightness: 0.9938919770065695
+  saturation: 0.23792472947388887
+  rhythmicContrast: 0.6986286910250783
+purpose: []
