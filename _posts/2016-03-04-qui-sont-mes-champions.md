@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:41:46.243Z'
-dateModified: '2016-03-06T22:40:03.972Z'
+datePublished: '2016-03-06T22:51:52.683Z'
+dateModified: '2016-03-06T22:41:51.873Z'
 title: Qui sont mes Champions ?
 author: []
 sourcePath: _posts/2016-03-04-qui-sont-mes-champions.md
