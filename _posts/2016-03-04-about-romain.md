@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:53:48.531Z'
-dateModified: '2016-03-04T19:53:18.283Z'
+datePublished: '2016-03-06T22:42:00.864Z'
+dateModified: '2016-03-06T22:40:28.392Z'
 title: About Romain
 author: []
+sourcePath: _posts/2016-03-04-about-romain.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-about-romain.md
-published: true
 url: about-romain/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b627fd7c-abc5-455c-9866-8a79d7f7c527.jpg)
