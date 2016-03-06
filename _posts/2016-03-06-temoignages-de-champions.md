@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:08:18.288Z'
-dateModified: '2016-03-06T22:07:50.130Z'
-title: Témoignages de Champions
+datePublished: '2016-03-06T22:42:11.944Z'
+dateModified: '2016-03-06T22:40:41.425Z'
+title: Témoignages
 author: []
+sourcePath: _posts/2016-03-06-temoignages-de-champions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-temoignages-de-champions.md
-published: true
 url: temoignages-de-champions/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****
