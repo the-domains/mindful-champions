@@ -1,27 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:24:00.610Z'
-dateModified: '2016-03-04T20:23:43.542Z'
+datePublished: '2016-03-06T22:41:46.243Z'
+dateModified: '2016-03-06T22:40:03.972Z'
 title: Qui sont mes Champions ?
 author: []
+sourcePath: _posts/2016-03-04-qui-sont-mes-champions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-qui-sont-mes-champions.md
-published: true
 url: qui-sont-mes-champions/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d585042-f323-4fe3-9bc7-9e9c039a2764.jpg)
+
 # Qui sont mes Champions ?
 
 Des leaders avec un grand coeur. Des hommes et des femmes qui ont le courage de mettre leurs talents au service des autres. Des Champions avec une grande vision pour eux et pour l'humanité. Les profils sont très variés : CEO de startups, dirigeants du CAC40, sportifs professionnels (notamment les golfeurs), artistes, coaches...
@@ -46,12 +48,12 @@ Un processus d'entrainement et de préparation mentale ultra performant. Je cré
 
 # Quel est le format ?
 
-# **Séances**. Le programme comprend sur 1 année 24 séances coaching individuel d'une durée d'environ 1h30\. Les séances de coaching se déroulent à intervalles réguliers (toutes les deux à trois semaines).
+**Séances**. Le programme comprend sur 1 année 24 séances coaching individuel d'une durée d'environ 1h30\. Les séances de coaching se déroulent à intervalles réguliers (toutes les deux à trois semaines).
 
-# **Lieu**. 25 avenue Robert Schuman, 92100 Boulogne Billancourt.
+**Lieu**. 25 avenue Robert Schuman, 92100 Boulogne Billancourt.
 
-# **Contrat**. Le coaching fait l'objet d'un contrat, dans lequel sont précisés des éléments de contexte de la démarche, les objectifs assignés, l'organisation matérielle et la tarification des séances. 
+**Contrat**. Le coaching fait l'objet d'un contrat, dans lequel sont précisés des éléments de contexte de la démarche, les objectifs assignés, l'organisation matérielle et la tarification des séances. 
 
-# **Confidentialité**. Le contenu des échanges entre le Champion et son Coach demeure strictement confidentiel.**Tarifs. **Nous consulter.
+**Confidentialité**. Le contenu des échanges entre le Champion et son Coach demeure strictement confidentiel.
 
-#
+**Tarifs. **Nous consulter.
