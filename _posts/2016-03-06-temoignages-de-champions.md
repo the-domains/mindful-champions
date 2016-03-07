@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:36:32.294Z'
+datePublished: '2016-03-07T10:37:54.977Z'
 dateModified: '2016-03-07T10:34:27.978Z'
 title: Paroles de Champions
 author: []
