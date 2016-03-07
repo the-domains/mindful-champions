@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:31:00.008Z'
-dateModified: '2016-03-07T10:28:00.554Z'
+datePublished: '2016-03-07T10:32:32.113Z'
+dateModified: '2016-03-07T10:31:08.469Z'
 title: Paroles de Champions
 author: []
 sourcePath: _posts/2016-03-06-temoignages-de-champions.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: paroles-de-champions/index.html
+_type: WebPage
 
 ---
 ****
