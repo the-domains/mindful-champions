@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:53:28.560Z'
-dateModified: '2016-03-06T22:53:06.038Z'
-title: Qui sont mes Champions ?
+datePublished: '2016-03-07T08:30:27.492Z'
+dateModified: '2016-03-07T08:30:25.798Z'
+title: Quels sont les objectifs du programme Mindful Champions ® ?
 author: []
 sourcePath: _posts/2016-03-04-qui-sont-mes-champions.md
 published: true
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d585042-f323-4fe3-9bc7-9e9c039a2764.jpg)
-
-# Qui sont mes Champions ?
 
 Des leaders avec un grand coeur. Des hommes et des femmes qui ont le courage de mettre leurs talents au service des autres. Des Champions avec une grande vision pour eux et pour l'humanité. Les profils sont très variés : CEO de startups, dirigeants du CAC40, sportifs professionnels (notamment les golfeurs), artistes, coaches...
 
