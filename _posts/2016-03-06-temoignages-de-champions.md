@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T08:25:52.261Z'
-dateModified: '2016-03-07T08:25:47.511Z'
+datePublished: '2016-03-07T08:31:30.620Z'
+dateModified: '2016-03-07T08:31:19.016Z'
 title: Témoignages
 author: []
 sourcePath: _posts/2016-03-06-temoignages-de-champions.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ****
 
-* Pour mieux prendre la température, et ressentir si oui ou non le programme est fait pour vous, voici quelques témoignages de Champions :
+Pour mieux prendre la température, et ressentir si le programme est fait pour vous, voici quelques témoignages de Champions :
 
 * **Jonathan Lehman. Fondateur des Antisèches du Bonheur. "**_Romain est un coach génial : il m'encourage sans complaisance, il me challenge avec bienveillance, et depuis un an qu'il m'accompagne il a été une influence majeure dans le succès de mon blog (Les Antisèches du Bonheur) et mon évolution personnelle ; il m'a notamment aidé à me débarrasser d'une grosse addiction au tabac, à gagner en confiance et en créativité dans mon travail, et à avancer en laissant de côté certaines peurs qui limitaient mon impact."_____
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3253e3-0251-457e-bdc4-d96cc5a85422.jpg)
