@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T08:37:37.321Z'
-dateModified: '2016-03-07T08:37:27.395Z'
+datePublished: '2016-03-07T08:42:35.250Z'
+dateModified: '2016-03-07T08:41:15.488Z'
 title: 'Témoignages de Champions:'
 author: []
 sourcePath: _posts/2016-03-06-temoignages-de-champions.md
