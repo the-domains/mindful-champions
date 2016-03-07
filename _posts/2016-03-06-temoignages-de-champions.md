@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:37:54.977Z'
-dateModified: '2016-03-07T10:34:27.978Z'
+datePublished: '2016-03-07T10:41:55.564Z'
+dateModified: '2016-03-07T10:38:06.678Z'
 title: Paroles de Champions
 author: []
 sourcePath: _posts/2016-03-06-temoignages-de-champions.md
