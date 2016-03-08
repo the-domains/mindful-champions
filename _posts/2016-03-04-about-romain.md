@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:42:00.864Z'
-dateModified: '2016-03-06T22:40:28.392Z'
+datePublished: '2016-03-08T21:59:02.838Z'
+dateModified: '2016-03-07T11:04:05.742Z'
 title: About Romain
 author: []
 sourcePath: _posts/2016-03-04-about-romain.md
