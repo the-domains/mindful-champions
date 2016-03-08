@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T21:59:02.838Z'
-dateModified: '2016-03-07T11:04:05.742Z'
+description: 'Je m’appelle Romain Bastide, j’ai 35 ans, je suis marié et père de 2 enfants (Tilda 3 ans et Archibald 1 an). Ma mission dans la vie c’est de progresser et d’aider les autres à passer leur vie dans leur zone de génie. Je suis passionné par la haute performance, le golf, la méditation, l’humour, et l’oenologie.'
+datePublished: '2016-03-08T22:01:10.292Z'
+dateModified: '2016-03-08T22:01:06.118Z'
 title: About Romain
 author: []
 sourcePath: _posts/2016-03-04-about-romain.md
@@ -32,7 +32,6 @@ Fin 2012, j'ai écouté mon coeur et pris mon courage à deux mains pour quitter
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/852f3aec-eb64-4b3f-b4d8-4a87e51d5db8.jpg)
 
 Air Detox a été une formidable réussite humaine, nous avons aidé des centaines de personnes à arrêter de fumer, à se connecter à leurs passions et à se rencontrer. Cependant nous n'avons pas réussi à trouver un modèle économique qui nous permette de vraiment décoller.  Du coup, début 2015, j'ai repris mon courage à deux mains et j'ai décidé de tourner la page Air Detox. Ce fut une décision difficile (licencier 3 personnes, rendre l'argent aux investisseurs) mais qui m'a permis d'être encore plus aligné.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac1cc991-cb6c-47de-a970-a643fa0b9c4e.jpg)
 
 En 2015, je décide de me lancer dans le coaching individuel de haut niveau. J'adore la progression mais je suis très exigeant : j'accompagne les Champions d'aujourd'hui et de demain dans différents domaines, des personnes atypiques qui évoluent 24/24 dans l'excellence, la pression et la joie. 
 
