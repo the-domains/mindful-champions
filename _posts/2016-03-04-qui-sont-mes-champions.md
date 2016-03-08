@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T11:01:41.241Z'
-dateModified: '2016-03-07T11:00:22.613Z'
+description: 'Des leaders avec un grand coeur. Des hommes et des femmes qui ont le courage de mettre leurs talents au service des autres. Des Champions avec une grande vision pour eux et pour l’humanité. Les profils sont très variés : CEO de startups, dirigeants du CAC40, sportifs professionnels (notamment les golfeurs), artistes, coaches...'
+datePublished: '2016-03-08T22:14:46.796Z'
+dateModified: '2016-03-08T22:14:43.717Z'
 title: Qui sont mes Champions ?
 author: []
 sourcePath: _posts/2016-03-04-qui-sont-mes-champions.md
