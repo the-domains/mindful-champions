@@ -1,19 +1,4 @@
-name: Mindful Champions
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.4000415022019297
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#00687d'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9938919770065695
   saturation: 0.23792472947388887
   rhythmicContrast: 0.6986286910250783
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb6c436-1548-47f0-ba22-a7c532d3b268.png
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mindful Champions
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
